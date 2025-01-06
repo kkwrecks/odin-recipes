@@ -1,6 +1,6 @@
 ## About odin-recipes X kkwrecks
 
-This project is part of the Foundation part of kkwrecks completing the Odin Project.
+This project is part of the Foundation part of kkwrecks completing the Odin Project, I used recipes from cartoons that make me happy.
 First embarked on the Odin Project 1 Jan 2025.
 
 ## Topics covered so far:
@@ -11,6 +11,7 @@ First embarked on the Odin Project 1 Jan 2025.
 - Basics of HTML
 - Importance of commit messages and commiting 
 - Markdown <a href="https://www.markdownguide.org/basic-syntax" target="_blank">More Tips Here</a>
+- Publish github pages from repo
 
 ***
 
