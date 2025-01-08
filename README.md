@@ -5,6 +5,11 @@ First embarked on the Odin Project 1 Jan 2025.
 
 ## Topics covered so far:
 
+_8 Jan 2025_
+- CSS Basics (Box Model, Flexbox)
+
+_At initial build this page_
+
 - Linux in VM on windows system
 - Command line basics
 - Using Git with Github 

@@ -39,3 +39,47 @@ a, .center, #mainpg-h2 {
 .blue {
     color: rgb(8, 105, 97);
 }
+
+div.flex {
+    display: flex;
+    height: 200px;
+    width: 100%;
+}
+
+div.flex > a, div.flex-img .thumbnail {
+    flex: 1;
+    flex-basis: auto;
+    flex-shrink: 0;
+    align-content: center;
+    text-decoration: none;
+    font-size: 2.1em;
+    font-weight: 600;
+    height: auto;
+}
+
+div.flex > a:nth-child(1) {
+    background-color: #96ceb4;	
+  }
+  
+div.flex > a:nth-child(2) {
+    background-color: #ee932b;
+  }
+
+div.flex > a:nth-child(3) {
+    background-color: #88d8b0;
+  }
+
+div.flex-img {
+    display: flex;
+    width: 100%;
+}
+
+div.flex-img .thumbnail {
+    flex: 1;
+    margin: 0px 0px 0px 10px;
+}
+div.flex-img .thumbnail > img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
